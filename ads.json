@@ -13,6 +13,9 @@
             "pn"
         ],
         "noDirectLaunch": [],
-        "configs": {}
+        "configs": {
+            "net.putilovka.auth": {}
+        },
+        "name": "test"
     }
 }
